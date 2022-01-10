@@ -19,5 +19,7 @@ public class Sample {
 		s.set(123456789l,98.456654f);
 		s.set(96.546566f,456198729l);
 		s.set('m',"madurai");
+		
+		System.out.println("not ready");
 		}
 }
